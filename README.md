@@ -1,5 +1,6 @@
 # LifeGame_Project
                 <Game Name : My Life>
+                
 제목: 나의 인생
 게임 : 스토리, 대화 중심적인 게임
 이게임은 나의 입장으로 만들어진 게임입니다.
